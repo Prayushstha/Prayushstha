@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Prayush Shrestha 👋
 
-<!--
-**Prayushstha/Prayushstha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer | Student | Aspiring Flutter Developer**
 
-Here are some ideas to get you started:
+I'm a Grade 12 student and aspiring software developer, learning to shape ideas into clean, functional experiences on the web. My journey began with frontend development, building interfaces using HTML and CSS, and I'm currently deepening my understanding of JavaScript to bring logic and interactivity into my work. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in learning by building from the ground up — experimenting, breaking things, and refining them step by step. With a long-term goal of becoming a Flutter developer, I'm steadily expanding my skills while focusing on consistency, clarity, and growth over shortcuts.
+
+## 🛠️ Languages and Tools
+
+**Current Stack (2026):**
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Vercel
+- VS Code
+
+**Learning Path:**
+- Flutter
+
+## 🚀 Latest Projects
+
+### [Chulo – Modern Food Delivery Website](https://github.com/Prayushstha/Chulo)
+A modern, responsive food delivery website built with HTML, CSS, and JavaScript. Features clean UI design, full responsiveness across devices, and smooth user interactions.
+
+**[🔗 Live Demo](https://chulo-fastfoodwebsite.vercel.app/)** | **[📁 Repository](https://github.com/Prayushstha/Chulo)**
+
+## 📫 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prayush.stha.56)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alt.p_edit/)
+
+---
+
+💡 *Currently learning, building, and growing one project at a time.*
