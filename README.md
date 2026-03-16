@@ -1,4 +1,4 @@
-# Hi there, I'm Prayush Shrestha 👋
+# Hi there, I'm Prayush Shrestha 
 
 **Frontend Developer | Student | Aspiring Flutter Developer**
 
@@ -19,21 +19,21 @@ I believe in learning by building from the ground up — experimenting, breaking
 **Learning Path:**
 - Flutter
 
-## 🚀 Latest Projects
+##  Latest Projects
 
 ### [Chulo – Modern Food Delivery Website](https://github.com/Prayushstha/Chulo)
 A modern, responsive food delivery website built with HTML, CSS, and JavaScript. Features clean UI design, full responsiveness across devices, and smooth user interactions.
 
-**[🔗 Live Demo](https://chulo-fastfoodwebsite.vercel.app/)** | **[📁 Repository](https://github.com/Prayushstha/Chulo)**
+**[🔗 Live Demo](https://chulo-fastfoodwebsite.vercel.app/)** | **[Repository](https://github.com/Prayushstha/Chulo)**
 
 ### [Games Website](https://github.com/Prayushstha/Games-project)
 A collection of classic browser games built with vanilla JavaScript. Includes Rock Paper Scissors, Number Guessing Game, and Tic Tac Toe. Features local storage for game state persistence and responsive design across devices.
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prayush.stha.56)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alt.p_edit/)
 
 ---
 
-💡 *Currently learning, building, and growing one project at a time.*
+ *Currently learning, building, and growing one project at a time.*
