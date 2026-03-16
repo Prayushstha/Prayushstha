@@ -29,6 +29,7 @@ A modern, responsive food delivery website built with HTML, CSS, and JavaScript.
 ### [Inventory Manager][(https://github.com/Prayushstha/Chulo)](https://github.com/Prayushstha/Inventory-Manager)
 A simple yet modern inventory manager app made with electron for to be used in shops.
 As of 3/16/2026, it is still under development.
+
 **[🔗[No Live Demo Yet]** | **[Repository](https://github.com/Prayushstha/Chulo)**
 
 ### [Games Website](https://github.com/Prayushstha/Games-project)
