@@ -26,6 +26,11 @@ A modern, responsive food delivery website built with HTML, CSS, and JavaScript.
 
 **[🔗 Live Demo](https://chulo-fastfoodwebsite.vercel.app/)** | **[Repository](https://github.com/Prayushstha/Chulo)**
 
+### [Inventory Manager][(https://github.com/Prayushstha/Chulo)](https://github.com/Prayushstha/Inventory-Manager)
+A simple yet modern inventory manager app made with electron for to be used in shops.
+As of 3/16/2026, it is still under development.
+**[🔗 Live Demo](No Live Demo Yet)** | **[Repository](https://github.com/Prayushstha/Chulo)**
+
 ### [Games Website](https://github.com/Prayushstha/Games-project)
 A collection of classic browser games built with vanilla JavaScript. Includes Rock Paper Scissors, Number Guessing Game, and Tic Tac Toe. Features local storage for game state persistence and responsive design across devices.
 
