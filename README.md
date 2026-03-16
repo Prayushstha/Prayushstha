@@ -26,7 +26,7 @@ A modern, responsive food delivery website built with HTML, CSS, and JavaScript.
 
 **[🔗 Live Demo](https://chulo-fastfoodwebsite.vercel.app/)** | **[Repository](https://github.com/Prayushstha/Chulo)**
 
-### [Inventory Manager][(https://github.com/Prayushstha/Chulo)](https://github.com/Prayushstha/Inventory-Manager)
+### [Inventory Manager](https://github.com/Prayushstha/Chulo)
 A simple yet modern inventory manager app made with electron for to be used in shops.
 As of 3/16/2026, it is still under development.
 
