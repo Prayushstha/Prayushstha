@@ -1,6 +1,6 @@
 # Hi there, I'm Prayush Shrestha 
 
-**Frontend Developer | Student | Aspiring Flutter Developer**
+**Frontend Developer | Student**
 
 I'm a Grade 12 student and aspiring software developer, learning to shape ideas into clean, functional experiences on the web. My journey began with frontend development, building interfaces using HTML and CSS, and I'm currently deepening my understanding of JavaScript to bring logic and interactivity into my work. 
 
