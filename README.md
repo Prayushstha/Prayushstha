@@ -32,9 +32,6 @@ As of 3/16/2026, it is still under development.
 
 **[🔗[No Live Demo Yet]** | **[Repository](https://github.com/Prayushstha/Chulo)**
 
-### [Games Website](https://github.com/Prayushstha/Games-project)
-A collection of classic browser games built with vanilla JavaScript. Includes Rock Paper Scissors, Number Guessing Game, and Tic Tac Toe. Features local storage for game state persistence and responsive design across devices.
-
 ##  Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prayush.stha.56)
