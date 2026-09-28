@@ -1,27 +1,53 @@
-# Hi there, I'm Prayush Shrestha 
+# Prayush Shrestha
 
-## 💫 About Me:
 A CSIT student from Nepal building real projects with HTML, CSS, JavaScript, Typescript and React. Currently expanding into backend development with Node.js.
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+##  Tech Stack:
 
-##  Latest Projects
-### [Chulo – Modern Food Delivery Website](https://github.com/Prayushstha/Chulo)
-A modern, responsive food delivery website built with HTML, CSS, and JavaScript. Features clean UI design, full responsiveness across devices, and smooth user interactions. <br />
-**[Repository](https://github.com/Prayushstha/Chulo)** <br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right:10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right:10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right:10px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html10" width="40" height="40" style="margin-right:10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right:10px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="margin-right:10px"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+</p>
 
-### [Inventory Manager](https://github.com/Prayushstha/Inventory-Manager)
-A simple yet modern inventory manager app made with electron for to be used in shops.
-As of 3/16/2026, it is still under development. <br />
-**[Repository](https://github.com/Prayushstha/Inventory-Manager)** <br />
+## Latest Projects
 
-### [Ecommerce Project](https://github.com/Prayushstha/Ecommers-Project)
-A project that I started with the intent to learn ReactJS  <br />
-**[Repository](https://github.com/Prayushstha/Ecommers-Project.git)** <br />
+### 1. NoNotion
+A Notion-inspired desktop productivity and habit tracking app built because most alternatives hide core features behind paywalls.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prayush.stha.56)
+- **Stack:** React, TypeScript, Electron, Vite, Node.js, SQLite
+- **Status:** In development
+- [Repository](https://github.com/Prayushstha/NoNotion)
 
 ---
 
+### 2. Inventory Manager
+A desktop inventory management app built for real shop use.
+
+- **Stack:** React, Electron, JavaScript, Vite, Node.js, SQLite
+- **Status:** In development
+- [Repository](https://github.com/Prayushstha/Inventory-Manager)
+
+---
+
+### 3. Chulo – Food Delivery Website
+A responsive food delivery website with clean UI and smooth interactions.
+
+- **Stack:** React, CSS, JavaScript
+- **Status:** Complete
+- [Repository](https://github.com/Prayushstha/Chulo) 
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prayushstha)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/prayush.stha.106)
+---
