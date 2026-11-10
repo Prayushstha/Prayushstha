@@ -49,5 +49,4 @@ A responsive food delivery website with clean UI and smooth interactions.
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prayushstha)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/prayush.stha.106)
 ---
