@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="160" viewBox="0 0 290 160">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#000000" flood-opacity=".12"/>
+</filter>
+<style>
+  svg{color:#FFF3B0;--primary:#FFF3B0;--secondary:#E3D3A0;--muted:#CDB46A;--accent:#FFD700;--gold:#FFD700;--highlight:#FFF3B0;--border:#B8860B}
+  .primary{fill:var(--primary)}
+  .secondary{fill:var(--secondary)}
+  .muted{fill:var(--muted)}
+  .accent{fill:var(--accent)}
+  .gold{fill:var(--gold)}
+  .border{stroke:var(--border)}
+  .frame{stroke:var(--gold)}
+  .r1{stroke:var(--highlight)}
+  .bar{fill:var(--accent)}
+  .peak{fill:var(--gold)}
+  .inactive{fill:var(--border)}
+  @media (prefers-color-scheme:light){
+    svg{color:#2B2208;--primary:#2B2208;--secondary:#66521C;--muted:#7C6324;--accent:#8A6508;--gold:#8A6508;--highlight:#B8860B;--border:#B8860B}
+  }
+  text,image,circle,path,.b{filter:url(#shadow)}
+</style>
+<style>text{font-family:'Segoe UI',Helvetica,Arial,sans-serif;}</style></defs>
+<rect x="1" y="1" width="288" height="158" rx="20" fill="#FFD700" fill-opacity=".035"/>
+<rect class="border" x="1" y="1" width="288" height="158" rx="20" fill="none" stroke="#B8860B" stroke-opacity=".5" stroke-width="1"/>
+<text class="accent" x="24" y="44" font-size="22" font-weight="800" fill="currentColor">Inventory-Manager</text>
+<line class="border" x1="24" y1="58" x2="266" y2="58" stroke="#B8860B" stroke-width="1.5" stroke-linecap="round"/>
+<text class="secondary" x="24" y="82" font-size="13" fill="currentColor">A simple yet modern inventory</text><text class="secondary" x="24" y="102" font-size="13" fill="currentColor">manager app made with electro…</text>
+<text class="muted" x="24" y="138" font-size="12" fill="currentColor">JavaScript</text>
+<text class="muted" x="266" y="138" text-anchor="end" font-size="12" fill="currentColor">★ 0   ⑂ 0</text>
+</svg>

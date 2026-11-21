@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="380" viewBox="0 0 480 380" role="img" aria-labelledby="building-title">
+<title id="building-title">Currently Building: NoNotion and Collaborative 2D Game</title>
+<style>
+  svg{--accent:#E3B341;--highlight:#F2CC60;--primary:#E6EDF3;--secondary:#9DA7B3;--border:#30363D}
+  text{font-family:'Segoe UI',Helvetica,Arial,sans-serif;}
+  .name{fill:var(--accent)}
+  .primary{fill:var(--primary)}
+  .secondary{fill:var(--secondary)}
+  .border{stroke:var(--border);stroke-width:1}
+  .status-dot{fill:var(--highlight);opacity:.65}
+  @media (prefers-color-scheme:light){
+    svg{--accent:#9A6700;--highlight:#BF8700;--primary:#24292F;--secondary:#57606A;--border:#D0D7DE}
+  }
+</style>
+<g>
+<rect class="border" x="6" y="6" width="468" height="178" rx="12" fill="none"/>
+<text class="name" x="24" y="36" font-size="22" font-weight="600">NoNotion</text>
+<text class="secondary" x="24" y="66" font-size="18">A desktop productivity and habit-tracking</text><text class="secondary" x="24" y="90" font-size="18">application.</text>
+<rect class="border" x="24" y="110" width="65.0" height="28" rx="6" fill="none"/>
+<text class="primary" x="33" y="130" font-size="16">React</text><rect class="border" x="96.0" y="110" width="112.0" height="28" rx="6" fill="none"/>
+<text class="primary" x="105.0" y="130" font-size="16">TypeScript</text><rect class="border" x="215.0" y="110" width="93.2" height="28" rx="6" fill="none"/>
+<text class="primary" x="224.0" y="130" font-size="16">Electron</text><rect class="border" x="315.2" y="110" width="74.4" height="28" rx="6" fill="none"/>
+<text class="primary" x="324.2" y="130" font-size="16">SQLite</text>
+<circle class="status-dot" cx="27" cy="160" r="3"/>
+<text class="secondary" x="38" y="164" font-size="16">In Development</text>
+</g><g>
+<rect class="border" x="6" y="196" width="468" height="178" rx="12" fill="none"/>
+<text class="name" x="24" y="226" font-size="22" font-weight="600">Collaborative 2D Game</text>
+<text class="secondary" x="24" y="256" font-size="18">A story-driven 2D game being developed with</text><text class="secondary" x="24" y="280" font-size="18">a team.</text>
+<rect class="border" x="24" y="300" width="65.0" height="28" rx="6" fill="none"/>
+<text class="primary" x="33" y="320" font-size="16">Godot</text><rect class="border" x="96.0" y="300" width="93.2" height="28" rx="6" fill="none"/>
+<text class="primary" x="105.0" y="320" font-size="16">GDScript</text>
+<circle class="status-dot" cx="27" cy="350" r="3"/>
+<text class="secondary" x="38" y="354" font-size="16">In Development</text>
+</g>
+</svg>

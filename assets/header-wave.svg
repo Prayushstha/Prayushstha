@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" aria-label="Animated minimal wave">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#000000" flood-opacity=".12"/>
+</filter>
+<style>
+  svg{color:#FFD700;--accent:#FFD700;--gold:#FFD700}
+  @media (prefers-color-scheme:light){svg{color:#8A6508;--accent:#8A6508;--gold:#8A6508}}
+  .accent{stroke:var(--accent)}
+  .gold{stroke:var(--gold)}
+  text,image,circle,path,.b{filter:url(#shadow)}
+</style>
+</defs>
+<g fill="none" stroke="currentColor" stroke-width="1.5">
+  <path class="gold" stroke="#FFD700" opacity=".25" d="M0 40 Q300 0 600 40 T1200 40">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 40 Q300 0 600 40 T1200 40;M0 40 Q300 80 600 40 T1200 40;M0 40 Q300 0 600 40 T1200 40"/>
+  </path>
+  <path class="accent" stroke="#FFD700" opacity=".4" d="M0 50 Q300 90 600 50 T1200 50">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 50 Q300 90 600 50 T1200 50;M0 50 Q300 10 600 50 T1200 50;M0 50 Q300 90 600 50 T1200 50"/>
+  </path>
+  <path class="accent" stroke="#FFD700" opacity=".6" d="M0 60 Q300 20 600 60 T1200 60">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 60 Q300 20 600 60 T1200 60;M0 60 Q300 100 600 60 T1200 60;M0 60 Q300 20 600 60 T1200 60"/>
+  </path>
+</g>
+</svg>

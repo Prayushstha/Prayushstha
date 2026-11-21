@@ -1,53 +1,54 @@
-# Prayush Shrestha
+<div align="center">
 
-A CSIT student from Nepal building real projects with HTML, CSS, JavaScript, Typescript and React. Currently expanding into backend development with Node.js.
+<img src="./assets/header-wave.svg" alt="Animated minimal wave" width="100%" />
 
-##  Tech Stack:
+<img src="./assets/profile-card.svg" alt="Prayush Shrestha's GitHub profile card" width="100%" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right:10px"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:10px"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right:10px"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right:10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html10" width="40" height="40" style="margin-right:10px"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right:10px"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="margin-right:10px"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-</p>
+</div>
+
+---
+
+## About Me
+
+- BSc CSIT student from Nepal, building practical web and desktop applications.
+- Currently exploring backend development with Node.js and PostgreSQL.
+- Learning Godot and GDScript to get started with game development.
+- Interested in full-stack development, desktop applications, and game development.
+- Future goals: Mobile app development with React Native and game development with Godot/C++.
+
+---
+
+<div align="center">
+<img src="./assets/contrib-bars.svg" alt="Contribution Activity ? Prayushstha's weekly GitHub contributions over the last year" width="100%" />
+</div>
+
+---
+
+## Skills
+
+<div align="center">
+<img src="./assets/skills.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Node.js, Electron, SQLite, Git" width="100%" />
+</div>
+
+---
 
 ## Latest Projects
 
-### 1. NoNotion
-A Notion-inspired desktop productivity and habit tracking app built because most alternatives hide core features behind paywalls.
-
-- **Stack:** React, TypeScript, Electron, Vite, Node.js, SQLite
-- **Status:** In development
-- [Repository](https://github.com/Prayushstha/NoNotion)
-
----
-
-### 2. Inventory Manager
-A desktop inventory management app built for real shop use.
-
-- **Stack:** React, Electron, JavaScript, Vite, Node.js, SQLite
-- **Status:** In development
-- [Repository](https://github.com/Prayushstha/Inventory-Manager)
-
----
-
-### 3. Chulo – Food Delivery Website
-A responsive food delivery website with clean UI and smooth interactions.
-
-- **Stack:** React, CSS, JavaScript
-- **Status:** Complete
-- [Repository](https://github.com/Prayushstha/Chulo) 
+<p align="center">
+<a href="https://github.com/Prayushstha/NoNotion"><img src="./assets/repo-nonotion.svg" alt="NoNotion — desktop productivity and habit tracker" width="32%" /></a>
+<a href="https://github.com/Prayushstha/Inventory-Manager"><img src="./assets/repo-inventory-manager.svg" alt="Inventory Manager — desktop inventory app for real shop use" width="32%" /></a>
+<a href="https://github.com/Prayushstha/Chulo"><img src="./assets/repo-chulo.svg" alt="Chulo — responsive food delivery website" width="32%" /></a>
+</p>
 
 ---
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prayushstha)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/prayush.stha.106)
----
+<div align="center">
+
+<a href="https://github.com/Prayushstha"><img src="https://img.shields.io/badge/GitHub-%40Prayushstha-D4AF37?style=for-the-badge&amp;logo=github&amp;logoColor=FFD700&amp;labelColor=0d0b07" alt="GitHub — @Prayushstha" height="30" /></a>
+<a href="https://www.linkedin.com/in/prayushstha/"><img src="https://img.shields.io/badge/LinkedIn-Prayush_Shrestha-D4AF37?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFD700&amp;labelColor=0d0b07" alt="LinkedIn — Prayush Shrestha" height="30" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=60&color=0:8A6508,55:FFD700,100:FFF3B0&animation=twinkling" width="100%" />
+
+</div>
